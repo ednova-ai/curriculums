@@ -1,6 +1,6 @@
 ---
 
-# **Ednova Machine Learning Engineering Curriculum**
+# **Ednova LLM Engineering Curriculum**
 
 ### **Duration:** 3 Months (12 Weeks)  
 ### **Commitment:** 12 Hours per Week  
